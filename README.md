@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning túlélni az egyetemet
 - 💞️ I’m looking to collaborate on széphölgyek
 - 📫 How to reach me: na ez az amit nem fogsz megtudni kisgyerek
-- 🗿 Agusztínó te vagy az?
+- 🗿 Agusztínó, te vagy az?
 
 <!---
 kodonci/kodonci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
